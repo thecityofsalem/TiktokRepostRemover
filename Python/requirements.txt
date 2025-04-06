@@ -1,0 +1,4 @@
+# python libraries needed for doing shit
+pyautogui==0.9.54 # click n shit
+keyboard==0.13.5 # keybinds
+Pillow==9.5.0  # pyautogui dependancy 
